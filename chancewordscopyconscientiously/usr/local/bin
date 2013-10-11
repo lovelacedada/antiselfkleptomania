@@ -1,1 +1,1 @@
-#!/usr/local/bin/perl print "dada\n";
+#!/usr/local/bin/perl -e 'print"dada\n"'
